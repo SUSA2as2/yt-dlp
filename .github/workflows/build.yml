@@ -9,21 +9,6 @@ on:
         required: false
         default: stable
         type: string
-      unix:
-        default: false
-        type: boolean
-      linux_static:
-        default: false
-        type: boolean
-      linux_arm:
-        default: false
-        type: boolean
-      macos:
-        default: false
-        type: boolean
-      macos_legacy:
-        default: false
-        type: boolean
       windows:
         default: true
         type: boolean
