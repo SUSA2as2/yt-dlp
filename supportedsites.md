@@ -1216,6 +1216,9 @@
  - **RottenTomatoes**
  - **Rozhlas**
  - **RozhlasVltava**
+ - **RPlayLive**: [*rplaylive*](## "netrc machine")
+ - **RPlayUser**
+ - **RPlayVideo**: [*rplaylive*](## "netrc machine")
  - **RTBF**: [*rtbf*](## "netrc machine") (**Currently broken**)
  - **RTDocumentry**
  - **RTDocumentryPlaylist**

@@ -4,6 +4,27 @@
 # To create a release, dispatch the https://github.com/yt-dlp/yt-dlp/actions/workflows/release.yml workflow on master
 -->
 
+### 2025.03.10.144918
+
+#### Core changes
+- [Update build.yml](https://github.com/yt-dlp/yt-dlp/commit/3cfe6ff644c7e03c527e6c99e08e2517ef3dd021) by [pukkandan](https://github.com/pukkandan)
+- [Update build.yml](https://github.com/yt-dlp/yt-dlp/commit/1b73b2355ee02409b0de1d9cb8cdf96bc9bdc9ce) by [pukkandan](https://github.com/pukkandan)
+- [Update build.yml](https://github.com/yt-dlp/yt-dlp/commit/bbd739114d0150c6c270373cd85808c58c39ed70) by [pukkandan](https://github.com/pukkandan)
+- [Update release.yml](https://github.com/yt-dlp/yt-dlp/commit/42ed6b0e1f5e5314edb22fba7694c67d9b8d21a1) by [pukkandan](https://github.com/pukkandan)
+- [Update rplaylive.py](https://github.com/yt-dlp/yt-dlp/commit/1d7d5b2e1677c63c3d286aea6adeb66d1012742e) by [pukkandan](https://github.com/pukkandan)
+- [fix](https://github.com/yt-dlp/yt-dlp/commit/d92f6fbaea9811d035b73b7801a54e0ba67c2ca3) by [pukkandan](https://github.com/pukkandan)
+- [fix for api change](https://github.com/yt-dlp/yt-dlp/commit/9d4497e13e0fb3cd0dd0f2ef7d6a0facbb8e8812) by [pukkandan](https://github.com/pukkandan)
+- [fixes for livestream](https://github.com/yt-dlp/yt-dlp/commit/6beae46c0f2b82c28a9ca3c6c18bdeb19ab75db2) by [pukkandan](https://github.com/pukkandan)
+- [hardcode logintype](https://github.com/yt-dlp/yt-dlp/commit/70fdfb3116bebadcc0257a9583658120ab1ee7df) by [pukkandan](https://github.com/pukkandan)
+- [improve](https://github.com/yt-dlp/yt-dlp/commit/388dc541da1bc9d188160b2e1d95db53ecfae612) by [pukkandan](https://github.com/pukkandan)
+- [improve user video list](https://github.com/yt-dlp/yt-dlp/commit/d9fd3dbdfaec5e8ad02ec352189978f1018fb665) by [pukkandan](https://github.com/pukkandan)
+- [migrate from old rplay branch](https://github.com/yt-dlp/yt-dlp/commit/7c97ead1b0560bd4dab6a636b1a518aa0a81893d) by [pukkandan](https://github.com/pukkandan)
+- [support jwt arg](https://github.com/yt-dlp/yt-dlp/commit/dcd2e93fa0f585c434c68e54cc603ae79725a69c) by [pukkandan](https://github.com/pukkandan)
+- [update](https://github.com/yt-dlp/yt-dlp/commit/02f4b25227929dd3b903b493df262b48128901ea) by [pukkandan](https://github.com/pukkandan)
+- [update api endpoint](https://github.com/yt-dlp/yt-dlp/commit/8ce308d519c77e6a1b433e879d992451cfb679f6) by [pukkandan](https://github.com/pukkandan)
+- [update headers](https://github.com/yt-dlp/yt-dlp/commit/501c9d526779444d9d8e6a69ec46a760a7cbf48a) by [pukkandan](https://github.com/pukkandan)
+- [vod fix](https://github.com/yt-dlp/yt-dlp/commit/ee838b418c2e006a24c5df7cb036112cb247604e) by [pukkandan](https://github.com/pukkandan)
+
 ### 2024.08.06
 
 #### Core changes
