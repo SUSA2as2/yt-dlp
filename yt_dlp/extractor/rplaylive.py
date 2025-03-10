@@ -26,7 +26,7 @@ class RPlayBaseIE(InfoExtractor):
     _TOKEN_CACHE = {}
     _user_id = None
     _jwt_token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWwiOiJ5ZW9uMjQyMUBnbWFpbC5jb20iLCJkYXQiOiIyMDI1LTAzLTEwVDA4OjQ2OjE1LjYxNVoiLCJpYXQiOjE3NDE1OTYzNzV9.b_xuoLHoDigyXBy2I16fDY072DqVDMNUoBZ9R2CYzKQ
-    _tested_jwt = False
+    _tested_jwt = True
 
     def _check_jwt_args(self):
         jwt_arg = self._configuration_arg('jwt_token', ie_key='rplaylive', casesense=True)
