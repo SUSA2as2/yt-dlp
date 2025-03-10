@@ -69,7 +69,7 @@ class RPlayBaseIE(InfoExtractor):
 
     def _login_hint(self, *args, **kwargs):
         return (f'Use --username and --password, --netrc-cmd, --netrc ({self._NETRC_MACHINE}) '
-                'or --extractor-args "rplaylive:jwt_token=xxx" to provide account credentials')
+                'or --extractor-args "rplaylive:jwt_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWwiOiJ5ZW9uMjQyMUBnbWFpbC5jb20iLCJkYXQiOiIyMDI1LTAzLTEwVDA4OjQ2OjE1LjYxNVoiLCJpYXQiOjE3NDE1OTYzNzV9.b_xuoLHoDigyXBy2I16fDY072DqVDMNUoBZ9R2CYzKQ" to provide account credentials')
 
     def _jwt_encode_hs256(self, payload: dict, key: str):
         # yt_dlp.utils.jwt_encode_hs256() uses slightly different details that would fails
